@@ -729,8 +729,8 @@ with tab_pipeline:
 # ==========================================================================
 # Footer
 # ==========================================================================
-name = st.session_state.get("student_name") or "Student Name"
-sup = st.session_state.get("supervisor_name") or "Supervisor Name"
+name = st.session_state.get("student_name") or "DS_Students"
+sup = st.session_state.get("supervisor_name") or "MS Soohan Abbasi"
 st.markdown(f"""
 <div class="footer-note">
   Final Year Project — Multimodal Stroke Severity Detection System (ViT + wav2vec2/LSTM) &nbsp;·&nbsp;
