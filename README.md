@@ -97,6 +97,7 @@ streamlit run app.py
 - **Streamlit** (dashboard / deployment)
 - **Plotly** (interactive charts)
 - **Pandas / NumPy**
+- - **keras**
 
 ## Project Structure
 
