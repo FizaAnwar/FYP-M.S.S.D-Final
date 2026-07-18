@@ -30,7 +30,7 @@ import streamlit as st
 # Page config + global style
 # ==========================================================================
 st.set_page_config(
-    page_title="Multimodal Stroke Severity Detection System",
+    page_title="Multimodal Stroke Severity Detection",
     layout="wide",
     initial_sidebar_state="expanded",
 )
