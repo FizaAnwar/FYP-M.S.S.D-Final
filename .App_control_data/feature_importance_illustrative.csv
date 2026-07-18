@@ -1,0 +1,9 @@
+feature,importance
+Jitter (local),0.21
+Shimmer (local),0.17
+Mean Pitch (F0),0.16
+Speech Rate,0.14
+Pause Ratio,0.12
+HNR,0.08
+MFCC-1 Energy,0.07
+Articulation Rate,0.05
