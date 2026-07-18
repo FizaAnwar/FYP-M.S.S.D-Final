@@ -1,4 +1,4 @@
-# R50F25 — Multimodal Stroke Severity Detection System
+## R50F25 — Multimodal Stroke Severity Detection System
 
 **Using Vision Transformer (ViT) and Wav2Vec2 + LSTM**
 
