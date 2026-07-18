@@ -85,7 +85,7 @@ Two kinds of visuals appear throughout the dashboard, and are labeled accordingl
 
 ```bash
 pip install streamlit pandas numpy plotly
-streamlit run app.py
+streamlit run streamlitapp.py
 ```
 
 ## Tools & Tech Stack
