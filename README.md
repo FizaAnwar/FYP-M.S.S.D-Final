@@ -5,7 +5,7 @@
 Department of Computer Science — DHA Suffa University
 Final Year Project (FYP)
 
-**Live Dashboard:** https://finalyearproject-mssd-fyp.streamlit.app/ *(it's our deployed `streamlit.app` URL)*
+**Live Dashboard:** https://fyp-mssd-final-iatxf7nwdfhni3vmm9kuyp.streamlit.app/ *(it's our deployed `streamlit.app` URL)*
 
 ---
 
