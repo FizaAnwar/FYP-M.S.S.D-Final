@@ -115,7 +115,7 @@ This system is a research prototype developed for academic purposes as part of a
 
 ## Team
 
-**Group Leader**
+**Team Lead**
 Tanzila Khalid (DS221012)
 
 **Members**
