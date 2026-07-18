@@ -51,7 +51,7 @@ The system runs two independent branches whose outputs are combined through a si
 
 | Stage | Model | Task | Input |
 |---|---|---|---|
-| **Stage 1** | Vision Transformer (ViT) | Stroke / Non-stroke classification | CT / MRI scan |
+| **Stage 1** | Vision Transformer (ViT) | Stroke / Non-stroke classification |  MRI scan |
 | **Stage 2** | Wav2Vec2 + LSTM | Severity classification (Low / Medium / High) | Voice recording (only runs if Stage 1 is stroke-positive) |
 
 ## Results
