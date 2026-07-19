@@ -123,7 +123,7 @@ Tanzila Khalid (DS221012)
 - Nimarta Kumari (DS221007)
 - Aashir Ahmed (CS221049)
 
-**Supervisor:** Soohan Abbasi
-**Co-Supervisor:** Hafsa Asif
+**Supervisor:** Ms Soohan Abbasi
+**Co-Supervisor:** Ms Hafsa Asif
 
 Department of Computer Science, DHA Suffa University
